@@ -1,17 +1,3 @@
-
-monetagbot.html
-1 file changed
-+486
--0
-lines changed
-Search within code
- 
-‎monetagbot.html‎
-+486
-Lines changed: 486 additions & 0 deletions
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,486 @@
-<!DOCTYPE html>
 <html lang="bn">
 <head>
     <meta charset="UTF-8">
